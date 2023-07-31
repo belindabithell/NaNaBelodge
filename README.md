@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @belindabithell
 - 👀 I’m interested in writing a website for #nanabeguestlodge
-- 🌱 I’m currently learning HTML,CSS, Pyton , Anaconda, GitHub, Commandline
+- 🌱 I’m currently learning HTML,CSS, Pyton , Anaconda, GitHub, Command line
 - 💞️ I’m looking to collaborate on helping with this website for the lodge
 - 📫 How to reach me www.skylovewitch@gmail.com
 
